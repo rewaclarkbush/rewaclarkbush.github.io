@@ -1647,3 +1647,8 @@ button {
 	body.is-preload #footer {
 		opacity: 0;
 	}
+
+/* Enable Font Awesome 6 icons (including ORCID) */
+.icon.brands:before {
+    font-family: "Font Awesome 6 Brands" !important;
+}
